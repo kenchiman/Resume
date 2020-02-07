@@ -23,21 +23,21 @@
 スキル、知識レベルを5点評価で自己採点しています。
 | Microsoft Azure | Level |
 |:-----------------------|--------------------------:|
-| Traffic Manager | :star::star::star::star: |
-| Application Gateway | :star::star::star: |
-| Web Apps | :star::star::star: |
-| Virtual Network | :star::star::star: |
+| Traffic Manager        | :star::star::star::star: |
+| Application Gateway    | :star::star::star: |
+| Web Apps               | :star::star::star: |
+| Virtual Network        | :star::star::star: |
 | Network Security Group | :star::star::star: |
-| Azure SQL Database | :star::star: |
-| Azure Monitor | :star::star::star: |
+| Azure SQL Database     | :star::star: |
+| Azure Monitor          | :star::star::star: |
 | Azure Virtural Machine | :star::star::star: |
-| Storage Account | :star::star::star: |
+| Storage Account        | :star::star::star: |
 | Azure Backup | :star::star: |
 | Azure Active Directory | :star::star::star: |
 | Azure DevOps | :star::star: |
 | Visual Studio App Center | :star: |
 
-| amazon web services | Level |
+| amazon web services    | Level                     |
 |:-----------------------|--------------------------:|
 | EC2 | :star::star: |
 | ELB | :star: |
@@ -45,14 +45,14 @@
 | S3 | :star: |
 | Cloud Watch | :star: |
 
-| Security | Level |
+| Security               | Level                     |
 |:-----------------------|--------------------------:|
 | Imperva WAF | :star::star: |
 | RSA（SEIM） | :star: |
 | Cisco ASA5500シリーズ | :star::star::star: |
 | Fortigate XXXDシリーズ | :star::star: |
 
-| Network | Level |
+| Network                | Level                     |
 |:-----------------------|--------------------------:|
 | Cisco 3900シリーズ | :star::star::star::star: |
 | Cisco ISRシリーズ | :star::star::star::star: |
@@ -66,7 +66,7 @@
 | Cisco TelePresence | :star: |
 | Cisco UCSシリーズ | :star: |
 
-| Routing / Switching | Knowledge Level |
+| Routing / Switching    | Level                     |
 |:-----------------------|--------------------------:|
 | OSPF | :star::star::star: |
 | EIGRP | :star::star::star: |
@@ -75,22 +75,22 @@
 | RSTP | :star::star: |
 | PVST+ | :star::star: |
 
-| Storage | Knowledge Level |
+| Storage                | Level                     |
 |:-----------------------|--------------------------:|
 | IBM DS4300 | :star::star: |
 | HP X1600 | :star::star: |
 
-| Server | Level |
+| Server                 | Level                     |
 |:-----------------------|--------------------------:|
 | IBM x346 | :star::star: |
 | HP Proliantシリーズ | :star::star: |
 
-| Virtualization | Level |
+| Virtualization         | Level                     |
 |:-----------------------|--------------------------:|
 | VMware ESXi | :star::star::star: |
 | Docker | :star: |
 
-| OS | Knowledge Level |
+| OS                     | Level                     |
 |:-----------------------|--------------------------:|
 | Windows Server 2003 | :star::star: |
 | Windows Server 2008 / 2008R2 | :star::star: |
@@ -102,21 +102,21 @@
 | Solaris | :star: |
 | HP-UX | :star: |
 
-| Middleware | Level |
+| Middleware             | Level                     |
 |:-----------------------|--------------------------:|
 | Active Directory | :star::star::star: |
 | Apache | :star::star::star::star: |
 | Bind | :star::star::star::star: |
 | Veritas ClusterServer | :star::star::star::star: |
 
-| RDBMS | Knowledge Level |
+| RDBMS                  | Level                     |
 |:-----------------------|--------------------------:|
 | Oracle10g / 11g | :star::star::star: |
 | MySQL | :star::star: |
 | PostgreSQL | :star::star: |
 | ElasticSearch | :star: |
 
-| Programming Language | Level |
+| Programming Language   | Level                     |
 |:-----------------------|--------------------------:|
 | C#Script                      | :star: |
 | JavaScript                    | :star::star: |
@@ -125,12 +125,12 @@
 | PowerShell                    | :star::star: |
 | Azure Resource Manager (JSON) | :star::star::star: |
 
-| Version Control | Level |
+| Version Control        | Level                     |
 |:-----------------------|--------------------------:|
 | Git | :star::star::star: |
 | Subversion | :star: |
 
-| Tools | Level |
+| Tools                  | Level                     |
 |:-----------------------|--------------------------:|
 | Visual Studio Code | :star::star::star: |
 | Visual Studio | :star::star: |
