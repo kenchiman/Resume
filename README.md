@@ -22,7 +22,7 @@
 # スキルセット
 スキル、知識レベルを5点評価で自己採点しています。
 | Microsoft Azure | Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | Traffic Manager | :star::star::star::star: |
 | Application Gateway | :star::star::star: |
 | Web Apps | :star::star::star: |
@@ -38,7 +38,7 @@
 | Visual Studio App Center | :star: |
 
 | amazon web services | Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | EC2 | :star::star: |
 | ELB | :star: |
 | VPC | :star::star: |
@@ -46,14 +46,14 @@
 | Cloud Watch | :star: |
 
 | Security | Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | Imperva WAF | :star::star: |
 | RSA（SEIM） | :star: |
 | Cisco ASA5500シリーズ | :star::star::star: |
 | Fortigate XXXDシリーズ | :star::star: |
 
 | Network | Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | Cisco 3900シリーズ | :star::star::star::star: |
 | Cisco ISRシリーズ | :star::star::star::star: |
 | Cisco 7200シリーズ | :star::star::star: |
@@ -67,7 +67,7 @@
 | Cisco UCSシリーズ | :star: |
 
 | Routing / Switching | Knowledge Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | OSPF | :star::star::star: |
 | EIGRP | :star::star::star: |
 | BGP | :star: |
@@ -76,22 +76,22 @@
 | PVST+ | :star::star: |
 
 | Storage | Knowledge Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | IBM DS4300 | :star::star: |
 | HP X1600 | :star::star: |
 
 | Server | Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | IBM x346 | :star::star: |
 | HP Proliantシリーズ | :star::star: |
 
 | Virtualization | Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | VMware ESXi | :star::star::star: |
 | Docker | :star: |
 
 | OS | Knowledge Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | Windows Server 2003 | :star::star: |
 | Windows Server 2008 / 2008R2 | :star::star: |
 | Windows Server 2012 / 2012R2 | :star::star::star: |
@@ -103,21 +103,21 @@
 | HP-UX | :star: |
 
 | Middleware | Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | Active Directory | :star::star::star: |
 | Apache | :star::star::star::star: |
 | Bind | :star::star::star::star: |
 | Veritas ClusterServer | :star::star::star::star: |
 
 | RDBMS | Knowledge Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | Oracle10g / 11g | :star::star::star: |
 | MySQL | :star::star: |
 | PostgreSQL | :star::star: |
 | ElasticSearch | :star: |
 
 | Programming Language | Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | C#Script                      | :star: |
 | JavaScript                    | :star::star: |
 | HTML                          | :star::star: |
@@ -126,12 +126,12 @@
 | Azure Resource Manager (JSON) | :star::star::star: |
 
 | Version Control | Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | Git | :star::star::star: |
 | Subversion | :star: |
 
 | Tools | Level |
-|---|---|
+|:-----------------------|--------------------------:|
 | Visual Studio Code | :star::star::star: |
 | Visual Studio | :star::star: |
 | TeraTerm | :star::star::star::star: |
