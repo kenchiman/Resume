@@ -11,7 +11,7 @@
 # 概要
 インフラエンジニアとして10年以上の実務経験があります。 直近の2年弱はMicrosoft Azureを利用したWebシステムの設計、構築を行っています。
 それ以前はネットワークの経験が一番長く6年程の実務経験があり、設計～運用・保守までの経験があります。規模の大きなものだと災対センターの構築があります。
-サーバも4年程経験があり、設計～構築までの経験があります。
+サーバも4年程経験があり、設計～構築までの経験があります。SES起業で働いてきており、今はフリーランスエンジニアです。
 
 # LT枠参加
 - [第三十八回 Azureもくもく会 @ 品川](https://azure-moku2.connpass.com/event/157123/)
@@ -25,7 +25,7 @@
 |:--------------------------|--------------------------:|
 | Traffic Manager           | :star::star::star::star:  |
 | Application Gateway       | :star::star::star:        |
-| Web Apps                  | :star::star::star:        |
+| Web Apps                  | :star::star::star::star:  |
 | Virtual Network           | :star::star::star:        |
 | Network Security Group    | :star::star::star:        |
 | Azure SQL Database        | :star::star:              |
@@ -159,85 +159,165 @@
 
 ## Sitecore on Azure プロジェクト | 2019年7月 - 現在
 
-**インフラエンジニア**
+**インフラエンジニア / 要件定義～構築**
 
-既存WEBサイトのリニューアル
-- 要件定義書作成、基本設計書作成、詳細設計書作成、試験仕様書作成
-- ARM Templateのカスタマイズによる環境構築
-
-
-<!-- 作成中
-## オンプレミス ⇒ Azure 移行プロジェクト | 2019年1月 - 2019年6月
-
-**Lead Engineer / Solution Architect**
-
-- A service to change the food industry
-    - C#, ASP.NET Core MVC, Azure, Docker, Xamarin, TypeScript
-    - Runs on Docker/Linux on Azure Web Apps
+- システム全体設計
+    - RFPと提案構成の差分確認
+    - 要件定義書作成、基本設計書作成、詳細設計書作成、試験仕様書作成
+    - ARM Templateのカスタマイズによる環境構築
 
 
+## BtoB WEB系システム更改支援（オンプレ⇒Azure | 2019年1月 - 2019年6月
 
-## GMG, Inc. (MYNET Group) | Apr 2018 - Jun 2018
+**インフラエンジニア / 基本設計～詳細設計**
 
-**Application Engineer**
-
-- Develop and maintain [Valhalla Gate](http://official.valhalla-gate.jp/) (mobile social game)
-    - C#/.NET, ASP.NET MVC, TypeScript, LESS, AWS, and so on
-- Develop and maintain [Black Night and White Devil](https://kuro-kishi.jp/) (mobile social game)
-    - C#/.NET, gRPC, UniRx, Unity
-
-
-
-## Grani, Inc. | Sep 2015 - Mar 2018
-
-**Application Engineer / XR Engineer**
-
-- Develop and maintain [Valhalla Gate](http://official.valhalla-gate.jp/) (mobile social game)
-    - C#/.NET, ASP.NET MVC, TypeScript, LESS, AWS, and so on
-- Develop and maintain [Black Night and White Devil](https://kuro-kishi.jp/) (mobile social game)
-    - C#/.NET, gRPC, UniRx, Unity
-- Develop [Grani VR Office Tour](http://grani.jp/product/vrofficetour/en/)
-    - Only 2 developers, only 2 months
-    - Exhibited in [Japan VR Summit 2](http://jvrs.org/02/ja/)
-    - Picked this up on [あさチャン!](http://www.tbs.co.jp/asachan/)
-    - Supports HTC Vive
-- Develop [Project Sonata](http://connect.sonata.world/) as lead engineer
-    - Real-time bidirectional AR translation
-    - Only 3 developers, only 1 month
-    - Exhibited in [SxSW 2017](https://www.sxsw.com/)
-    - Supports Microsoft HoloLens, HTC Vive
-    - [Alex Kipman and Palmer Luckey :heart: this product](https://twitter.com/akipman/status/842090464656293889)
+- 運用・監視設計
+    - VMへのアプリのデプロイ方法の検討
+    - 権限周りの設計
+    - Azure Monitorを利用した監視設計
+    - マイクロソフト社との技術定例（全体構成の相談など）
 
 
+## 機械翻訳システムプロトタイプ構築支援 | 2018年10月 - 2018年12月
 
-## ALL CONNECT Co.,Ltd | Mar 2014 - Sep 2015
+**インフラエンジニア / 基本設計～構築**
 
-**Technical Specialist**
-
-- Develop in-house realtime monitoring system
-- Develop in-house accounts receivable management system
-- Develop in-house Google Adwords automatic analysis tool
-- AWS resource management
-
-
-
-## Fukui Computer Holdings, Inc. (Fukui Computer Group) | Sep 2012 - Mar 2014
-
-**Software Engineer**
-
-- Develop in-house CTI (= Computer Telephony Integration) system using cutting edge technologies at the time
-    - Asterisk, async/await, Rx.NET, ASP.NET SignalR, ASP.NET Web API, WPF, SQL Server, and so on
+- システム全体設計、構築
+    - Linux(Ubuntu) 仮想マシンの構築
+    - Azure Monitorを用いた監視の設計、構築
+    - 脆弱性診断テスト（OWSAP ZAP）
+    - 社内メンバーへのレクチャー
 
 
+## インフラ設計構築支援全般 | 2018年4月～2018年9月
 
-## Fukui Computer, Inc. (Fukui Computer Group) | Apr 2007 - Aug 2012
+**インフラエンジニア / 基本設計～構築**
 
-**Software Engineer**
+- ActiveDirectory移行（Windows Server 2003中間 ⇒ Windows Server 2012R2）
+    - 移行手順の検証など
+- 仮想サーバの導入
+    - サーバ設定（RAID、iLO）
+    - VMwareESXi設定、VM構築
+- Azureへの移行
+    - AzCopy（BLOB→WindowsVMへのデータ移行）
+    - Azure Backup を利用したVMのバックアップ
 
-- Develop [EX-TREND 武蔵 Series](https://const.fukuicompu.co.jp/products/extrendmusashi/index.html) (Construction CAD) and [BLUETREND Series](https://const.fukuicompu.co.jp/products/trendone/index.html) (Survey CAD) using C++/C#
-    - 3D programming using DirectX / OpenGL
-    - Desktop application installer
-    - Microsoft Excel Add-in using VSTO
-    - Build batch
 
--->
+## セキュリティ関連事業 | 2016年12月～2018年3月
+
+**インフラエンジニア / 基本設計～構築**
+
+- 内部監査製品導入
+    - 検証製品のリストアップ、テスト仕様書作成、テストの実施
+- MSSサービスの導入
+    - NVA(Router)構築、VMware-HA構築、ログサーバ構築
+- WAF、SEIM製品の導入
+    - IPアドレス、SSH等の初期設定、ユーザー登録などの初期セットアップ
+
+
+## ネットワーク統合プロジェクト | 2016年7月～2016年11月
+
+**インフラエンジニア / 基本設計～構築**
+
+- 会社合併に伴うネットワーク統合設計、構築
+    - 各回線の利用率の調査
+    - NW構成図の作成
+    - VPN設定
+
+
+## ASP系でのサポート業務 | 2015年6月～2016年6月
+
+**サポート担当 / 提案、サポート**
+
+- 見積もり作成
+- 社内問い合わせ対応
+
+
+## 構成管理業務 | 2015年1月～2015年3月
+
+**インフラエンジニア / 保守**
+
+- NW機器、SV機器の資産棚卸
+    - NW構成図の作成
+    - IPアドレス管理表など各種管理表の更新
+
+
+## プリセールス業務 | 2013年12月～2014年12月
+
+**インフラエンジニア / 提案～構築**
+
+- Active Directoryの導入
+    - シングルフォレスト/シングルドメインの設定
+    - グループポリシーの作成（ユーザーの構成）
+- 営業同行
+    - 提案書作成、説明
+
+
+## ネットワーク運用業務 | 2013年4月～2013年9月
+
+**インフラエンジニア / 運用**
+
+- 某研究機関様にてインフラの運
+    - L3スイッチ設定変更（ACL/スタティックルーティング/VRRP）
+    - L2スイッチ設定変更（PVST）
+
+
+## オフサイトセンター構築プロジェクト | 2012年7月～2013年3月
+
+**インフラエンジニア / 基本設計～構築**
+
+- ネットワーク全体設計、構築
+    - 物理構成図作成
+    - L3スイッチ設定（ACL/スタティックルーティング/HSRP/QoS）
+    - L2スイッチ設定（Stack/VLAN）
+
+
+## ネットワーク運用業務 | 2011年7月～2012年6月
+
+**インフラエンジニア / 基本設計～構築**
+
+- システム設計
+    - 検証製品のリストアップ、テスト仕様書作成、テストの実施
+    - NVA(Router)構築、VMware-HA構築、ログサーバ構築
+    - IPアドレス、SSH等の初期設定、ユーザー登録などの初期セットアップ
+
+
+## ネットワーク運用業務 | 2009年1月～2011年1月
+
+**インフラエンジニア / 基本設計～運用**
+
+- Active Directory導入
+    - シングルフォレスト/シングルドメインの設定
+    - 双方向信頼関係の設定
+    - グループポリシーの作成（ユーザーの構成
+- ネットワーク運用
+    - ルータの設定変更（ACL/スタティックルーティング）
+    - 試験仕様書の作成
+
+
+## NGN関連プロジェクト | 2008年10月～2008年12月
+
+**インフラエンジニア / 構築**
+
+- DBサーバ構築
+    - ハードウェアの設定（RAID/LUN）
+    - Oracle10gR2のインストール、設定・テスト
+
+
+## ネットワーク運用業務 | 2007年4月～2008年9月
+
+**インフラエンジニア / 運用～保守**
+
+- 某金融機関様のネットワーク運用
+    - L3スイッチ設定変更（ACL/スタティックルーティング）
+    - 障害対応（機器交換/報告書作成）
+
+
+## 製品検証業務 | 2005年9月～2007年3月
+
+**インフラエンジニア / 社内検証～社内サポート**
+
+- Veritas製品導入前検証、サポート
+    - Veritas StorageFoundation 機能検証（ボリューム作成/削除/拡大/縮小/スナップショット）
+    - Veritas ClusterServer 機能検証（電源障害、ネットワーク障害、ソフトウェア障害想定時の挙動確認）
+    - 製品バグのベンダーへのエスカレーション
