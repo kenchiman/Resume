@@ -21,39 +21,39 @@
 
 # スキルセット
 スキル、知識レベルを5点評価で自己採点しています。
-| Microsoft Azure | Level |
-|:-----------------------|--------------------------:|
-| Traffic Manager        | :star::star::star::star: |
-| Application Gateway    | :star::star::star: |
-| Web Apps               | :star::star::star: |
-| Virtual Network        | :star::star::star: |
-| Network Security Group | :star::star::star: |
-| Azure SQL Database     | :star::star: |
-| Azure Monitor          | :star::star::star: |
-| Azure Virtural Machine | :star::star::star: |
-| Storage Account        | :star::star::star: |
-| Azure Backup | :star::star: |
-| Azure Active Directory | :star::star::star: |
-| Azure DevOps | :star::star: |
-| Visual Studio App Center | :star: |
+| Microsoft Azure 　　　　   | Level                     |
+|:--------------------------|--------------------------:|
+| Traffic Manager           | :star::star::star::star:  |
+| Application Gateway       | :star::star::star:        |
+| Web Apps                  | :star::star::star:        |
+| Virtual Network           | :star::star::star:        |
+| Network Security Group    | :star::star::star:        |
+| Azure SQL Database        | :star::star:              |
+| Azure Monitor             | :star::star::star:        |
+| Azure Virtural Machine    | :star::star::star:        |
+| Storage Account           | :star::star::star:        |
+| Azure Backup              | :star::star:              |
+| Azure Active Directory    | :star::star::star:        |
+| Azure DevOps              | :star::star:              |
+| Visual Studio App Center  | :star:                    |
 
-| amazon web services    | Level                     |
-|:-----------------------|--------------------------:|
-| EC2 | :star::star: |
-| ELB | :star: |
-| VPC | :star::star: |
-| S3 | :star: |
-| Cloud Watch | :star: |
+| amazon web services       | Level                     |
+|:--------------------------|--------------------------:|
+| EC2                       | :star::star:              |
+| ELB                       | :star:                    |
+| VPC                       | :star::star:              |
+| S3                        | :star:                    |
+| Cloud Watch               | :star:                    |
 
-| Security               | Level                     |
-|:-----------------------|--------------------------:|
-| Imperva WAF | :star::star: |
-| RSA（SEIM） | :star: |
-| Cisco ASA5500シリーズ | :star::star::star: |
-| Fortigate XXXDシリーズ | :star::star: |
+| Security                  | Level                     |
+|:--------------------------|--------------------------:|
+| Imperva WAF               | :star::star:              |
+| RSA (SEIM)                | :star:                    |
+| Cisco ASA5500シリーズ      | :star::star::star:        |
+| Fortigate XXXDシリーズ     | :star::star:              |
 
-| Network                | Level                     |
-|:-----------------------|--------------------------:|
+| Network                   | Level                     |
+|:--------------------------|--------------------------:|
 | Cisco 3900シリーズ | :star::star::star::star: |
 | Cisco ISRシリーズ | :star::star::star::star: |
 | Cisco 7200シリーズ | :star::star::star: |
@@ -66,8 +66,8 @@
 | Cisco TelePresence | :star: |
 | Cisco UCSシリーズ | :star: |
 
-| Routing / Switching    | Level                     |
-|:-----------------------|--------------------------:|
+| Routing / Switching       | Level                     |
+|:--------------------------|--------------------------:|
 | OSPF | :star::star::star: |
 | EIGRP | :star::star::star: |
 | BGP | :star: |
@@ -75,67 +75,67 @@
 | RSTP | :star::star: |
 | PVST+ | :star::star: |
 
-| Storage                | Level                     |
-|:-----------------------|--------------------------:|
+| Storage                   | Level                     |
+|:--------------------------|--------------------------:|
 | IBM DS4300 | :star::star: |
 | HP X1600 | :star::star: |
 
-| Server                 | Level                     |
-|:-----------------------|--------------------------:|
+| Server                    | Level                     |
+|:--------------------------|--------------------------:|
 | IBM x346 | :star::star: |
 | HP Proliantシリーズ | :star::star: |
 
-| Virtualization         | Level                     |
-|:-----------------------|--------------------------:|
-| VMware ESXi | :star::star::star: |
-| Docker | :star: |
+| Virtualization            | Level                     |
+|:--------------------------|--------------------------:|
+| VMware ESXi               | :star::star::star:        |
+| Docker                    | :star:                    |
 
-| OS                     | Level                     |
-|:-----------------------|--------------------------:|
-| Windows Server 2003 | :star::star: |
-| Windows Server 2008 / 2008R2 | :star::star: |
-| Windows Server 2012 / 2012R2 | :star::star::star: |
-| Windows Server 2016 | :star::star::star: |
-| Linux（RedHat） | :star::star::star: |
-| Linux（CentOS） | :star::star::star: |
-| Linux（Ubuntu） | :star::star: |
-| Solaris | :star: |
-| HP-UX | :star: |
+| OS                        | Level                     |
+|:-----------------------------|--------------------------:|
+| Windows Server 2003          | :star::star:              |
+| Windows Server 2008 / 2008R2 | :star::star:              |
+| Windows Server 2012 / 2012R2 | :star::star::star:        |
+| Windows Server 2016          | :star::star::star:        |
+| Linux（RedHat）              | :star::star::star:         |
+| Linux（CentOS）              | :star::star::star:         |
+| Linux（Ubuntu）              | :star::star:               |
+| Solaris                      | :star:                    |
+| HP-UX                        | :star:                    |
 
-| Middleware             | Level                     |
-|:-----------------------|--------------------------:|
-| Active Directory | :star::star::star: |
-| Apache | :star::star::star::star: |
-| Bind | :star::star::star::star: |
-| Veritas ClusterServer | :star::star::star::star: |
+| Middleware                | Level                     |
+|:--------------------------|--------------------------:|
+| Active Directory          | :star::star::star:        |
+| Apache                    | :star::star::star::star:  |
+| Bind                      | :star::star::star::star:  |
+| Veritas ClusterServer     | :star::star::star::star:  |
 
-| RDBMS                  | Level                     |
-|:-----------------------|--------------------------:|
-| Oracle10g / 11g | :star::star::star: |
-| MySQL | :star::star: |
-| PostgreSQL | :star::star: |
-| ElasticSearch | :star: |
+| RDBMS                     | Level                     |
+|:--------------------------|--------------------------:|
+| Oracle10g / 11g           | :star::star::star:        |
+| MySQL                     | :star::star:              |
+| PostgreSQL                | :star::star:              |
+| ElasticSearch             | :star:                    |
 
-| Programming Language   | Level                     |
-|:-----------------------|--------------------------:|
-| C#Script                      | :star: |
-| JavaScript                    | :star::star: |
-| HTML                          | :star::star: |
-| CSS                           | :star::star: |
-| PowerShell                    | :star::star: |
-| Azure Resource Manager (JSON) | :star::star::star: |
+| Programming Language          | Level                     |
+|:------------------------------|--------------------------:|
+| C#Script                      | :star:                    |
+| JavaScript                    | :star::star:              |
+| HTML                          | :star::star:              |
+| CSS                           | :star::star:              |
+| PowerShell                    | :star::star:              |
+| Azure Resource Manager (JSON) | :star::star::star:        |
 
-| Version Control        | Level                     |
-|:-----------------------|--------------------------:|
-| Git | :star::star::star: |
-| Subversion | :star: |
+| Version Control           | Level                     |
+|:--------------------------|--------------------------:|
+| Git                       | :star::star::star:        |
+| Subversion                | :star:                    |
 
-| Tools                  | Level                     |
-|:-----------------------|--------------------------:|
-| Visual Studio Code | :star::star::star: |
-| Visual Studio | :star::star: |
-| TeraTerm | :star::star::star::star: |
-| JMeter | :star::star::star: |
+| Tools                     | Level                     |
+|:--------------------------|--------------------------:|
+| Visual Studio Code        | :star::star::star:        |
+| Visual Studio             | :star::star:              |
+| TeraTerm                  | :star::star::star::star:  |
+| JMeter                    | :star::star::star:        |
 
 # 保有資格
 |資格|取得年月|
