@@ -105,8 +105,8 @@
 | Middleware                | Level                     |
 |:--------------------------|--------------------------:|
 | Active Directory          | :star::star::star:        |
-| Apache                    | :star::star::star::star:  |
-| Bind                      | :star::star::star::star:  |
+| Apache                    | :star::star::star:        |
+| Bind                      | :star::star::star:        |
 | Veritas ClusterServer     | :star::star::star::star:  |
 
 | RDBMS                     | Level                     |
@@ -157,7 +157,7 @@
 
 # 職歴
 
-## Sitecore on Azure プロジェクト | 2019年7月 - 現在
+## CMS on Azure プロジェクト | 2019年7月 - 現在
 
 **インフラエンジニア / 要件定義～構築**
 
