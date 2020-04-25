@@ -34,6 +34,8 @@
 | Storage Account           | :star::star::star:        |
 | Azure Backup              | :star::star:              |
 | Azure Active Directory    | :star::star::star:        |
+| Azure Databricks          | :star::star:              |
+| Azure DataFactory         | :star::star:              |
 | Azure DevOps              | :star::star:              |
 | Visual Studio App Center  | :star:                    |
 
@@ -157,7 +159,17 @@
 
 # 職歴
 
-## CMS on Azure プロジェクト | 2019年7月 - 現在
+## 在庫最適化プロジェクト | 2020年4月
+
+**インフラエンジニア / 要件定義～構築**
+
+- Azureのサービスを利用したデータ分析基盤構築の検証
+    - Databricksのクラスタ作成
+    - DataFactoryとDatabricksの連携（Databricksノートの呼び出し）
+    - 作成した機械学習モデルをMachine Learningに登録、コンテナ―インスタンスにデプロイ
+    - パラメータシート作成、マニュアル作成
+
+## CMS on Azure プロジェクト | 2019年7月 - 2020年3月
 
 **インフラエンジニア / 要件定義～構築**
 
