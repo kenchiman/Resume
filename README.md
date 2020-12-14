@@ -26,7 +26,7 @@
 | Microsoft Azure 　　　　   | Level                     |
 |:--------------------------|--------------------------:|
 | Traffic Manager           | :star::star::star::star:  |
-| Application Gateway       | :star::star::star:        |
+| Application Gateway       | :star::star::star::star:  |
 | Web Apps                  | :star::star::star::star:  |
 | Virtual Network           | :star::star::star:        |
 | Network Security Group    | :star::star::star:        |
@@ -161,7 +161,7 @@
 
 # 職歴
 
-## 在庫最適化プロジェクト | 2020年5月 - 2020年11月
+## Webサイト移行・移行提案 | 2020年5月 - 2020年11月
 
 **インフラエンジニア / 外部設計～構築**
 
