@@ -13,7 +13,7 @@
 それ以前はネットワークの経験が一番長く6年程の実務経験があり、設計～運用・保守までの経験があります。規模の大きなものだと災対センターの構築があります。
 サーバも4年程経験があり、設計～構築までの経験があります。SES企業で働いてきており、今はフリーランスエンジニアです。
 コミュニティ活動等で、LTで参加したこともあります。
-資料はSlideShare![slideshare](https://www.slideshare.net/KentaroHigashi)にアップしています。
+資料は![SlideShare](https://www.slideshare.net/KentaroHigashi)にアップしています。
 
 # スキルセット
 ![experience-image](img/service.png)
