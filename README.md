@@ -12,12 +12,8 @@
 インフラエンジニアとして10年以上の実務経験があります。 直近の2年弱はMicrosoft Azureを利用したWebシステムの設計、構築を行っています。
 それ以前はネットワークの経験が一番長く6年程の実務経験があり、設計～運用・保守までの経験があります。規模の大きなものだと災対センターの構築があります。
 サーバも4年程経験があり、設計～構築までの経験があります。SES企業で働いてきており、今はフリーランスエンジニアです。
-
-# LT枠参加
-- [第三十八回 Azureもくもく会 @ 品川](https://azure-moku2.connpass.com/event/157123/)
-- [DevRel/Community #6 〜ユーザカンファレンス〜](https://devrel.connpass.com/event/158094/)
-- [第三十九回 Azureもくもく会 @ 品川](https://azure-moku2.connpass.com/event/159905/)
-- [第四〇回 Azureもくもく会 @ 品川](https://azure-moku2.connpass.com/event/162655/)
+コミュニティ活動等で、LTで参加したこともあります。
+資料はSlideShare![slideshare](https://www.slideshare.net/KentaroHigashi)にアップしています。
 
 # スキルセット
 ![experience-image](img/service.png)
