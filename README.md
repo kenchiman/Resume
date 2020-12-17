@@ -19,23 +19,16 @@
 ![experience-image](img/service.png)
 
 スキル、知識レベルを5点評価で自己採点しています。
-| Microsoft Azure 　　　　   | Level                     |
-|:--------------------------|--------------------------:|
-| Traffic Manager           | :star::star::star::star:  |
-| Application Gateway       | :star::star::star::star:  |
-| Web Apps                  | :star::star::star::star:  |
-| Virtual Network           | :star::star::star:        |
-| Network Security Group    | :star::star::star:        |
-| Azure SQL Database        | :star::star:              |
-| Azure Monitor             | :star::star::star:        |
+| Microsoft Azure 　　　　   | Level                     | Microsoft Azure 　　　　   | Level                     |
+|:--------------------------|--------------------------:|:--------------------------|--------------------------:|
+| Traffic Manager           | :star::star::star::star:  | Storage Account           | :star::star::star:        |
+| Application Gateway       | :star::star::star::star:  | Azure Backup              | :star::star:              |
+| Web Apps                  | :star::star::star::star:  | Azure Active Directory    | :star::star::star:        |
+| Virtual Network           | :star::star::star:        | Azure Databricks          | :star::star:              |
+| Network Security Group    | :star::star::star:        | Azure DataFactory         | :star::star:              |
+| Azure SQL Database        | :star::star:              | Azure DevOps              | :star::star:              |
+| Azure Monitor             | :star::star::star:        | Visual Studio App Center  | :star:                    |
 | Azure Virtural Machine    | :star::star::star:        |
-| Storage Account           | :star::star::star:        |
-| Azure Backup              | :star::star:              |
-| Azure Active Directory    | :star::star::star:        |
-| Azure Databricks          | :star::star:              |
-| Azure DataFactory         | :star::star:              |
-| Azure DevOps              | :star::star:              |
-| Visual Studio App Center  | :star:                    |
 
 | amazon web services       | Level                     |
 |:--------------------------|--------------------------:|
@@ -52,19 +45,14 @@
 | Cisco ASA5500シリーズ      | :star::star::star:        |
 | Fortigate XXXDシリーズ     | :star::star:              |
 
-| Network                   | Level                     |
-|:--------------------------|--------------------------:|
-| Cisco 3900シリーズ | :star::star::star::star: |
-| Cisco ISRシリーズ | :star::star::star::star: |
-| Cisco 7200シリーズ | :star::star::star: |
-| Cisco 3600シリーズ | :star::star::star: |
-| NEC IX2000シリーズ | :star::star::star: |
-| Catalyst 2960シリーズ | :star::star::star::star: |
-| Catalyst 6500シリーズ | :star::star: |
-| Catalyst 5500シリーズ | :star: |
-| Alaxala Switch | :star: |
-| Cisco TelePresence | :star: |
-| Cisco UCSシリーズ | :star: |
+| Network                   | Level                     | Network                   | Level                     |
+|:--------------------------|--------------------------:|:--------------------------|--------------------------:|
+| Cisco 3900シリーズ | :star::star::star::star: | Catalyst 2960シリーズ | :star::star::star::star: |
+| Cisco ISRシリーズ | :star::star::star::star: | Catalyst 6500シリーズ | :star::star: |
+| Cisco 7200シリーズ | :star::star::star: | Catalyst 5500シリーズ | :star: |
+| Cisco 3600シリーズ | :star::star::star: | Alaxala Switch | :star: |
+| NEC IX2000シリーズ | :star::star::star: | Cisco TelePresence | :star: |
+|                   |                     | Cisco UCSシリーズ | :star: |
 
 | Routing / Switching       | Level                     |
 |:--------------------------|--------------------------:|
@@ -75,32 +63,23 @@
 | RSTP | :star::star: |
 | PVST+ | :star::star: |
 
-| Storage                   | Level                     |
-|:--------------------------|--------------------------:|
-| IBM DS4300 | :star::star: |
-| HP X1600 | :star::star: |
-
-| Server                    | Level                     |
-|:--------------------------|--------------------------:|
-| IBM x346 | :star::star: |
-| HP Proliantシリーズ | :star::star: |
+| Storage                   | Level                     | Server                    | Level                     |
+|:--------------------------|--------------------------:|:--------------------------|--------------------------:|
+| IBM DS4300 | :star::star: | IBM x346 | :star::star: |
+| HP X1600 | :star::star: | HP Proliantシリーズ | :star::star: |
 
 | Virtualization            | Level                     |
 |:--------------------------|--------------------------:|
 | VMware ESXi               | :star::star::star:        |
 | Docker                    | :star:                    |
 
-| OS                        | Level                     |
-|:-----------------------------|--------------------------:|
-| Windows Server 2003          | :star::star:              |
-| Windows Server 2008 / 2008R2 | :star::star:              |
-| Windows Server 2012 / 2012R2 | :star::star::star:        |
-| Windows Server 2016          | :star::star::star:        |
-| Linux（RedHat）              | :star::star::star:         |
-| Linux（CentOS）              | :star::star::star:         |
-| Linux（Ubuntu）              | :star::star:               |
-| Solaris                      | :star:                    |
-| HP-UX                        | :star:                    |
+| OS (Windows)                 | Level                     | OS (Unix,Linux)              | Level                     |
+|:-----------------------------|--------------------------:|:-----------------------------|--------------------------:|
+| Windows Server 2003          | :star::star:              | Linux（RedHat）              | :star::star::star:         |
+| Windows Server 2008 / 2008R2 | :star::star:              | Linux（CentOS）              | :star::star::star:         |
+| Windows Server 2012 / 2012R2 | :star::star::star:        | Linux（Ubuntu）              | :star::star:               |
+| Windows Server 2016          | :star::star::star:        | Solaris                      | :star:                    |
+|                              |                           | HP-UX                        | :star:                    |
 
 | Middleware                | Level                     |
 |:--------------------------|--------------------------:|
