@@ -23,12 +23,12 @@
 |:--------------------------|--------------------------:|:--------------------------|--------------------------:|
 | Traffic Manager           | :star::star::star::star:  | Storage Account           | :star::star::star:        |
 | Application Gateway       | :star::star::star::star:  | Azure Backup              | :star::star:              |
-| Web Apps                  | :star::star::star::star:  | Azure Active Directory    | :star::star::star:        |
-| Virtual Network           | :star::star::star:        | Azure Databricks          | :star::star:              |
-| Network Security Group    | :star::star::star:        | Azure DataFactory         | :star::star:              |
-| Azure SQL Database        | :star::star:              | Azure DevOps              | :star::star:              |
-| Azure Monitor             | :star::star::star:        | Visual Studio App Center  | :star:                    |
-| Azure Virtural Machine    | :star::star::star:        |
+| Web Apps                  | :star::star::star::star:  | Azure Postgres SQL        | :star::star:              |
+| Virtual Network           | :star::star::star:        | Azure Active Directory    | :star::star::star:        |
+| Network Security Group    | :star::star::star:        | Azure Databricks          | :star::star:              |
+| Azure SQL Database        | :star::star:              | Azure DataFactory         | :star::star:              |
+| Azure Monitor             | :star::star::star:        | Azure DevOps              | :star::star:              |
+| Azure Virtural Machine    | :star::star::star:        | Visual Studio App Center  | :star:                    |
 
 | amazon web services       | Level                     |
 |:--------------------------|--------------------------:|
@@ -136,15 +136,25 @@
 
 # 職歴
 
-## ECサイト運用/構築 | 2020年12月 - 
+## 音声認識基盤構築 | 2021年6月 - 
 
-**インフラエンジニア**
+**インフラエンジニア / 構築**
 
-- Azureを活用したマイクロサービス構成の管理（予定）
-    - ログ調査
-    - 閾値超過の原因調査
-    - リリース管理
-    - etc
+- Azureを活用したマイクロサービスアーキテクチャの採用
+    - PostgresDBのバックアップ検証
+    - Postgresのレプリケーション検証
+
+## ECサイト運用/構築 | 2020年12月 - 2021年5月
+
+**インフラエンジニア / 運用**
+
+- Azureを活用したマイクロサービス構成の管理
+    - Piplineの設定変更、追加
+    - リリース対応、管理
+    - KubernetesのPODのログ取得
+    - Azureリソース作成（Terraform）
+    - AzureDashboardの作成、設定変更
+    - Ansibleでのジョブ追加
 
 ## Webサイト移行・移行提案 | 2020年5月 - 2020年11月
 
