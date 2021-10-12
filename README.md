@@ -9,7 +9,7 @@
 | connpass   | https://connpass.com/user/KentaroHigashi/     |
 
 # 概要
-インフラエンジニアとして10年以上の実務経験があります。 直近の2年弱はMicrosoft Azureを利用したWebシステムの設計、構築を行っています。
+インフラエンジニアとして10年以上の実務経験があります。 直近の3年程はMicrosoft Azureを利用したWebシステムの設計、構築を行っています。
 それ以前はネットワークの経験が一番長く6年程の実務経験があり、設計～運用・保守までの経験があります。規模の大きなものだと災対センターの構築があります。
 サーバも4年程経験があり、設計～構築までの経験があります。SES企業で働いてきており、今はフリーランスエンジニアです。
 コミュニティ活動等で、LTで参加したこともあります。
@@ -29,6 +29,7 @@
 | Azure SQL Database        | :star::star:              | Azure DataFactory         | :star::star:              |
 | Azure Monitor             | :star::star::star:        | Azure DevOps              | :star::star:              |
 | Azure Virtural Machine    | :star::star::star:        | Visual Studio App Center  | :star:                    |
+| Azure Kubernetes Service  | :star::star:              |
 
 | amazon web services       | Level                     |
 |:--------------------------|--------------------------:|
@@ -71,7 +72,7 @@
 | Virtualization            | Level                     |
 |:--------------------------|--------------------------:|
 | VMware ESXi               | :star::star::star:        |
-| Docker                    | :star:                    |
+| Docker                    | :star::star:              |
 
 | OS (Windows)                 | Level                     | OS (Unix,Linux)              | Level                     |
 |:-----------------------------|--------------------------:|:-----------------------------|--------------------------:|
@@ -138,13 +139,14 @@
 
 ## 音声認識基盤構築 | 2021年6月 - 
 
-**インフラエンジニア / 構築**
+**インフラエンジニア / 構築・運用**
 
 - Azureを活用したマイクロサービスアーキテクチャの採用
     - PostgresDBのバックアップ・リストア対応
     - Postgresのレプリケーション検証
-    - AKSのLBのSKU変更、ノードの追加
+    - AKSのLBのSKU変更、ノードの追加、バージョンアップ
     - アプリのデプロイ対応
+    - Azureリソース作成（Terraform）
     - HCLのセキュリティ強化（Key vault）
 
 ## ECサイト運用/構築 | 2020年12月 - 2021年5月
