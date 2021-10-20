@@ -15,6 +15,9 @@
 コミュニティ活動等で、LTで参加したこともあります。
 資料は![SlideShare](https://www.slideshare.net/KentaroHigashi)にアップしています。
 
+第30回のJAZUGにて、1:27:頃から「ここが変だよ DR対策」というタイトルで登壇させて頂きました。
+https://youtu.be/-TQj7soKVEg
+
 # スキルセット
 ![experience-image](img/service.png)
 
@@ -148,6 +151,7 @@
     - アプリのデプロイ対応
     - Azureリソース作成（Terraform）
     - HCLのセキュリティ強化（Key vault）
+    - Kerberos認証の導入（Azure ActiveDirectory DomainService）
 
 ## ECサイト運用/構築 | 2020年12月 - 2021年5月
 
