@@ -107,6 +107,7 @@ https://youtu.be/-TQj7soKVEg
 | CSS                           | :star::star:              |
 | PowerShell                    | :star::star:              |
 | Azure Resource Manager (JSON) | :star::star::star:        |
+| HashiCorp Configuration Language (HCL) | :star::star:     |
 
 | Version Control           | Level                     |
 |:--------------------------|--------------------------:|
@@ -123,6 +124,7 @@ https://youtu.be/-TQj7soKVEg
 # 保有資格
 |資格|取得年月|
 |:----|-------:|
+| Certified Kubernetes Administrator              | 2022年2月 |
 | Azure DevOps Engineer Expert                    | 2019年11月 |
 | Azure Administrator Associate                   | 2019年10月 |
 | HTML5 レベル2                                   | 2019年4月 |
@@ -131,9 +133,6 @@ https://youtu.be/-TQj7soKVEg
 | VMware Sales Professional                       | 2013年5月 |
 | CCNP                                            | 2013年4月 |
 | モバイルシステム技術検定2級                       | 2012年6月 |
-| マイクロソフトオフィススペシャリストPowerPoint2010 | 2012年6月 |
-| マイクロソフトオフィススペシャリストWord2010       | 2012年5月 |
-| マイクロソフトオフィススペシャリストExcel2010      | 2012年5月 |
 | OracleMasterBronze 11g                          | 2013年4月 |
 
 ※更新の必要なものは失効していますが、参考として。CCNPに関してはCCNAのみ更新しています。
@@ -145,13 +144,17 @@ https://youtu.be/-TQj7soKVEg
 **インフラエンジニア / 構築・運用**
 
 - Azureを活用したマイクロサービスアーキテクチャの採用
-    - PostgresDBのバックアップ・リストア対応
-    - Postgresのレプリケーション検証
+    - PostgresDBのSKU変更（バックアップ・リストア対応、レプリケーション対応）
     - AKSのLBのSKU変更、ノードの追加、バージョンアップ
     - アプリのデプロイ対応
     - Azureリソース作成（Terraform）
     - HCLのセキュリティ強化（Key vault）
     - Kerberos認証の導入（Azure ActiveDirectory DomainService）
+    - GitHub Actions（CI/CD）、Flux（GitOps）の調査
+    - Microsft Graph APIの調査（Active Directory、AAD Connect、AzureADを利用）
+    - プロダクトのセールスポイントのアイデア出し
+    - AWS保守サポート（CloudWatch、Athena、S3）
+    - セキュリティ関連などの問い合わせ事項の調査、回答
 
 ## ECサイト運用/構築 | 2020年12月 - 2021年5月
 
