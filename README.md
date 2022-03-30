@@ -32,7 +32,7 @@ https://youtu.be/-TQj7soKVEg
 | Azure SQL Database        | :star::star:              | Azure DataFactory         | :star::star:              |
 | Azure Monitor             | :star::star::star:        | Azure DevOps              | :star::star:              |
 | Azure Virtural Machine    | :star::star::star:        | Visual Studio App Center  | :star:                    |
-| Azure Kubernetes Service  | :star::star:              |
+| Azure Kubernetes Service  | :star::star::star:        |
 
 | amazon web services       | Level                     |
 |:--------------------------|--------------------------:|
@@ -124,9 +124,10 @@ https://youtu.be/-TQj7soKVEg
 # 保有資格
 |資格|取得年月|
 |:----|-------:|
+| AWS Certified Cloud Practitioner                | 2022年3月 |
 | Certified Kubernetes Administrator              | 2022年2月 |
 | Azure DevOps Engineer Expert                    | 2019年11月 |
-| Azure Administrator Associate                   | 2019年10月 |
+| Azure Administrator Associate                   | 2019年10月（2022年3月再取得） |
 | HTML5 レベル2                                   | 2019年4月 |
 | Microsoft Azure Infrastructure Solutions の実装 | 2018年10月 |
 | LPIC Level2                                     | 2017年10月 |
@@ -153,7 +154,7 @@ https://youtu.be/-TQj7soKVEg
     - GitHub Actions（CI/CD）、Flux（GitOps）の調査
     - Microsft Graph APIの調査（Active Directory、AAD Connect、AzureADを利用）
     - プロダクトのセールスポイントのアイデア出し
-    - AWS保守サポート（CloudWatch、Athena、S3）
+    - AWS保守サポート（CloudWatch、Athena、S3、RDS、EKS）
     - セキュリティ関連などの問い合わせ事項の調査、回答
 
 ## ECサイト運用/構築 | 2020年12月 - 2021年5月
