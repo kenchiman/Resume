@@ -124,8 +124,8 @@ https://youtu.be/-TQj7soKVEg
 # 保有資格
 |資格|取得年月|
 |:----|-------:|
-| AWS Certified Cloud Practitioner                | 2022年3月 |
-| Certified Kubernetes Administrator              | 2022年2月 |
+| AWS Certified Cloud Practitioner                | 2022年3月（認定番号：） |
+| Certified Kubernetes Administrator              | 2022年2月（認定番号：） |
 | Azure DevOps Engineer Expert                    | 2019年11月 |
 | Azure Administrator Associate                   | 2019年10月（2022年3月再取得） |
 | HTML5 レベル2                                   | 2019年4月 |
