@@ -9,7 +9,7 @@
 | connpass   | https://connpass.com/user/KentaroHigashi/     |
 
 # 概要
-インフラエンジニアとして10年以上の実務経験があります。 直近の3年程はMicrosoft Azureを利用したWebシステムの設計、構築を行っています。
+インフラエンジニアとして10年以上の実務経験があります。 直近の4年半程はMicrosoft Azureを利用したWebシステムの設計、構築を行っています。
 それ以前はネットワークの経験が一番長く6年程の実務経験があり、設計～運用・保守までの経験があります。規模の大きなものだと災対センターの構築があります。
 サーバも4年程経験があり、設計～構築までの経験があります。SES企業で働いてきており、今はフリーランスエンジニアです。
 コミュニティ活動等で、LTで参加したこともあります。
@@ -37,7 +37,7 @@ https://youtu.be/-TQj7soKVEg
 | amazon web services       | Level                     |
 |:--------------------------|--------------------------:|
 | EC2                       | :star::star:              |
-| ELB                       | :star:                    |
+| ELB/ALB                   | :star::star:              |
 | VPC                       | :star::star:              |
 | S3                        | :star:                    |
 | Cloud Watch               | :star:                    |
@@ -124,10 +124,10 @@ https://youtu.be/-TQj7soKVEg
 # 保有資格
 |資格|取得年月|
 |:----|-------:|
-| AWS Certified Cloud Practitioner                | 2022年3月 |
-| Certified Kubernetes Administrator              | 2022年2月 |
+| AWS Certified Cloud Practitioner                | 2022年3月（認定番号：1YGC8Q7DEB4E1SWT） |
+| Certified Kubernetes Administrator              | 2022年2月（認定番号：LF-ju2i8qvjl8） |
 | Azure DevOps Engineer Expert                    | 2019年11月 |
-| Azure Administrator Associate                   | 2019年10月（2022年3月再取得） |
+| Azure Administrator Associate                   | 2019年10月（2022年3月再取得）（認定番号：I204-4746） |
 | HTML5 レベル2                                   | 2019年4月 |
 | Microsoft Azure Infrastructure Solutions の実装 | 2018年10月 |
 | LPIC Level2                                     | 2017年10月 |
@@ -148,14 +148,18 @@ https://youtu.be/-TQj7soKVEg
     - PostgresDBのSKU変更（バックアップ・リストア対応、レプリケーション対応）
     - AKSのLBのSKU変更、ノードの追加、バージョンアップ
     - アプリのデプロイ対応
+    - NginxIngressContoroller、RancherなどのK8S関連のツールアップデート
     - Azureリソース作成（Terraform）
     - HCLのセキュリティ強化（Key vault）
-    - Kerberos認証の導入（Azure ActiveDirectory DomainService）
     - GitHub Actions（CI/CD）、Flux（GitOps）の調査
+    - GitLab、GitLab CIの構築
     - Microsft Graph APIの調査（Active Directory、AAD Connect、AzureADを利用）
     - プロダクトのセールスポイントのアイデア出し
     - AWS保守サポート（CloudWatch、Athena、S3、RDS、EKS）
+    - ArgoCDの設定、ALBの設定、EKS構築など
     - セキュリティ関連などの問い合わせ事項の調査、回答
+    - JIRAによるタスク管理、Confluenceによるドキュメント管理
+    - Azureランニングコスト、作業工数見積もり
 
 ## ECサイト運用/構築 | 2020年12月 - 2021年5月
 
