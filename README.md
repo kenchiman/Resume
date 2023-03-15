@@ -124,13 +124,13 @@ https://youtu.be/-TQj7soKVEg
 # 保有資格
 |資格|取得年月|
 |:----|-------:|
-| Azure DevOps Engineer Expert                    | 2023年2月 |
-| Azure Solutions Architect Expert                | 2023年2月（認定番号：I594-9782）  |
-| AWS Certified Cloud Practitioner                | 2022年3月（認定番号：1YGC8Q7DEB4E1SWT） |
-| Certified Kubernetes Administrator              | 2022年2月（認定番号：LF-ju2i8qvjl8） |
-| Azure Administrator Associate                   | 2019年10月（2023年2月再取得）（認定番号：I204-4746） |
+| Azure DevOps Engineer Expert                    | [2023年2月（認定番号：I644-2305）](https://www.credly.com/badges/77593de7-0eac-4853-8c83-2ae74fab555f/) |
+| Azure Solutions Architect Expert                | [2023年2月（認定番号：I594-9782） ](https://www.credly.com/badges/0d71674f-75a4-4c16-b83e-76436b6570d9) |
+| AWS Certified Cloud Practitioner                | [2022年3月（認定番号：1YGC8Q7DEB4E1SWT）](https://www.credly.com/badges/11b6468e-2190-4bbe-aaf2-0d402eca4629) |
+| Certified Kubernetes Administrator              | [2022年2月（認定番号：LF-ju2i8qvjl8）](https://www.credly.com/badges/f4be8d48-423f-4396-84da-6edd38921d0d) |
+| Azure Administrator Associate                   | [2019年10月（2023年2月再取得）（認定番号：I204-4746）](https://www.credly.com/badges/9c3c13f1-669e-465c-bfea-c702db34b47a/accept) |
 | HTML5 レベル2                                   | 2019年4月 |
-| Microsoft Azure Infrastructure Solutions の実装 | 2018年10月 |
+| Microsoft Azure Infrastructure Solutions の実装 | [2018年10月](https://www.credly.com/badges/d863d2ce-e424-48e4-a1b8-ab197a39d38f) |
 | LPIC Level2                                     | 2017年10月 |
 | VMware Sales Professional                       | 2013年5月 |
 | CCNP                                            | 2013年4月 |
