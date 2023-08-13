@@ -124,6 +124,7 @@ https://youtu.be/-TQj7soKVEg
 # 保有資格
 |資格|取得年月|
 |:----|-------:|
+| Azure Data Fundamentals                         | [2023年3月（認定番号：FVB7B8-655559）](https://www.credly.com/badges/867df652-7103-4611-b401-9ca0c535132b/) |
 | Azure DevOps Engineer Expert                    | [2023年2月（認定番号：I644-2305）](https://www.credly.com/badges/77593de7-0eac-4853-8c83-2ae74fab555f/) |
 | Azure Solutions Architect Expert                | [2023年2月（認定番号：I594-9782） ](https://www.credly.com/badges/0d71674f-75a4-4c16-b83e-76436b6570d9) |
 | AWS Certified Cloud Practitioner                | [2022年3月（認定番号：1YGC8Q7DEB4E1SWT）](https://www.credly.com/badges/11b6468e-2190-4bbe-aaf2-0d402eca4629) |
@@ -141,7 +142,15 @@ https://youtu.be/-TQj7soKVEg
 
 # 職歴
 
-## 音声認識基盤構築 | 2021年6月 - 
+## 音声認識基盤構築 | 2023年5月 -
+**インフラエンジニア / 構築**
+- Azureを活用したマイクロサービスアーキテクチャの採用
+    - CIツール（Zuul）でのビルドジョブ作成（Pytest、Buildahでのイメージビルド）
+    - CDツール（KubeVela）の調査
+    - AzureとDatadogの連携
+    - GitHubとDatadogの連携調査
+    - IaCツール（CrossPlane）の調査
+## 音声認識基盤構築 | 2021年6月 - 2023年4月
 
 **インフラエンジニア / 構築・運用**
 
