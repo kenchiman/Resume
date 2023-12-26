@@ -122,14 +122,18 @@ https://youtu.be/-TQj7soKVEg
 | JMeter                    | :star::star::star:        |
 
 # 保有資格
-|資格|取得年月|
-|:----|-------:|
-| Azure Data Fundamentals                         | [2023年3月（認定番号：FVB7B8-655559）](https://www.credly.com/badges/867df652-7103-4611-b401-9ca0c535132b/) |
-| Azure DevOps Engineer Expert                    | [2023年2月（認定番号：I644-2305）](https://www.credly.com/badges/77593de7-0eac-4853-8c83-2ae74fab555f/) |
-| Azure Solutions Architect Expert                | [2023年2月（認定番号：I594-9782） ](https://www.credly.com/badges/0d71674f-75a4-4c16-b83e-76436b6570d9) |
+|資格|取得年月|スコア|
+|:----|-------|-------:|
+| Azure AI Fundamentals                        | [2023年12月（認定番号：6B0B39-AU0AC3）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/57EC35D1900EFC85?sharingId=5BA8994F83BE0C17) | 783 |
+| Power Platform Fundamentals                         | [2023年12月（認定番号：63633D-85AD7E）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/FDA5F29EF8FF8D81?sharingId=5BA8994F83BE0C17) | 711 |
+| Microsoft 365 Fundamentals                         | [2023年12月（認定番号：405DD6-6DAM0C）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/DF989A03B12DBAFA?sharingId=5BA8994F83BE0C17) | 777 |
+| Microsoft Security, Compliance, and Identity Fundamentals                         | [2023年12月（認定番号：8F0521-25Q363）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/85CAC5918A2E73D9?sharingId=5BA8994F83BE0C17) | 808 |
+| Azure Data Fundamentals                         | [2023年3月（認定番号：FVB7B8-655559）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/6FE37AE94EE2199B?sharingId=5BA8994F83BE0C17) | 733 |
+| Azure DevOps Engineer Expert                    | [2023年2月（認定番号：554121-AG4251）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/4A353B1216739D43?sharingId=5BA8994F83BE0C17) | 770 |
+| Azure Solutions Architect Expert                | [2023年2月（認定番号：96AZ1D-5BC7B9） ](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/F9526ACA250D5F43?sharingId=5BA8994F83BE0C17) | 753 |
+| Azure Administrator Associate                   | [2023年2月（認定番号：92F1E2-2F5K0C）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/27009C0E94AC7072?sharingId=5BA8994F83BE0C17) | 723 |
 | AWS Certified Cloud Practitioner                | [2022年3月（認定番号：1YGC8Q7DEB4E1SWT）](https://www.credly.com/badges/11b6468e-2190-4bbe-aaf2-0d402eca4629) |
 | Certified Kubernetes Administrator              | [2022年2月（認定番号：LF-ju2i8qvjl8）](https://www.credly.com/badges/f4be8d48-423f-4396-84da-6edd38921d0d) |
-| Azure Administrator Associate                   | [2019年10月（2023年2月再取得）（認定番号：I204-4746）](https://www.credly.com/badges/9c3c13f1-669e-465c-bfea-c702db34b47a/accept) |
 | HTML5 レベル2                                   | 2019年4月 |
 | Microsoft Azure Infrastructure Solutions の実装 | [2018年10月](https://www.credly.com/badges/d863d2ce-e424-48e4-a1b8-ab197a39d38f) |
 | LPIC Level2                                     | 2017年10月 |
