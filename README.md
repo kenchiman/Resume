@@ -124,6 +124,8 @@ https://youtu.be/-TQj7soKVEg
 # 保有資格
 |資格|取得年月|スコア|
 |:----|-------|-------:|
+| Certified Kubernetes Application Developer       | [2024年2月（認定番号：LF-foi1x7nz7o）](https://www.credly.com/badges/6cef7431-d072-473b-b1fe-2d8b2a079edb) | 77 |
+| Certified Kubernetes Administrator               | [2024年1月（認定番号：LF-ju2i8qvjl8）](https://www.credly.com/badges/f4be8d48-423f-4396-84da-6edd38921d0d) | 76 |
 | Azure AI Fundamentals                        | [2023年12月（認定番号：6B0B39-AU0AC3）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/57EC35D1900EFC85?sharingId=5BA8994F83BE0C17) | 783 |
 | Power Platform Fundamentals                         | [2023年12月（認定番号：63633D-85AD7E）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/FDA5F29EF8FF8D81?sharingId=5BA8994F83BE0C17) | 711 |
 | Microsoft 365 Fundamentals                         | [2023年12月（認定番号：405DD6-6DAM0C）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/DF989A03B12DBAFA?sharingId=5BA8994F83BE0C17) | 777 |
@@ -133,7 +135,7 @@ https://youtu.be/-TQj7soKVEg
 | Azure Solutions Architect Expert                | [2023年2月（認定番号：96AZ1D-5BC7B9） ](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/F9526ACA250D5F43?sharingId=5BA8994F83BE0C17) | 753 |
 | Azure Administrator Associate                   | [2023年2月（認定番号：92F1E2-2F5K0C）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/27009C0E94AC7072?sharingId=5BA8994F83BE0C17) | 723 |
 | AWS Certified Cloud Practitioner                | [2022年3月（認定番号：1YGC8Q7DEB4E1SWT）](https://www.credly.com/badges/11b6468e-2190-4bbe-aaf2-0d402eca4629) |
-| Certified Kubernetes Administrator              | [2022年2月（認定番号：LF-ju2i8qvjl8）](https://www.credly.com/badges/f4be8d48-423f-4396-84da-6edd38921d0d) |
+| Certified Kubernetes Administrator (JP)             | [2022年2月（認定番号：LF-ju2i8qvjl8）](https://www.credly.com/badges/f4be8d48-423f-4396-84da-6edd38921d0d) | 72 |
 | HTML5 レベル2                                   | 2019年4月 |
 | Microsoft Azure Infrastructure Solutions の実装 | [2018年10月](https://www.credly.com/badges/d863d2ce-e424-48e4-a1b8-ab197a39d38f) |
 | LPIC Level2                                     | 2017年10月 |
@@ -146,15 +148,19 @@ https://youtu.be/-TQj7soKVEg
 
 # 職歴
 
-## IoTデバイス管理 DevOpsエンジニアリング | 2023年5月 -
+## IoTデバイス管理 DevOpsエンジニアリング | 2023年5月 - 2024年3月
 **インフラエンジニア / 開発環境整備**
 - Azureを活用したマイクロサービスアーキテクチャの採用
     - CIツール（Zuul）でのビルドジョブ作成（Pytest、Buildahでのイメージビルド）
     - CDツール（KubeVela）の調査
+    - Flux を利用したGitOps
     - AzureとDatadogの連携
     - GitHubとDatadogの連携調査
     - IaCツール（CrossPlane）の調査
     - K8SマニフェストのHelm化検証
+    - GitHu Actions による環境構築の自動化
+    - Skafoldの利用方法確認
+    - 手順書、議事録作成（Confluence、README.md）
 ## 音声認識基盤構築 | 2021年6月 - 2023年4月
 
 **インフラエンジニア / 構築・運用**
