@@ -124,6 +124,12 @@ https://youtu.be/-TQj7soKVEg
 # 保有資格
 |資格|取得年月|スコア|
 |:----|-------|-------:|
+| Azure Developer Associate                        | [2024年8月（認定番号：31C0588E6B537EE5）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/31C0588E6B537EE5?sharingId) | 737 |
+| Azure Security Engineer Associate                | [2024年7月（認定番号：DC548F0CB4C4DA71）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/DC548F0CB4C4DA71?sharingId) | 936 |
+| Python3 エンジニア認定基礎試験                     | [2024年6月] | 763 |
+| Azure Network Engineer Associate                 | [2024年5月（認定番号：F71AC27A77A2B3C9）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/B8EFC1FA8D5F26AD?sharingId=5BA8994F83BE0C17) | 777 |
+| Azure Fundamentals                        | [2024年4月（認定番号：6B0B39-AU0AC3）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/F71AC27A77A2B3C9?sharingId) | 936 |
+| Microsoft Certified Trainer                        | 2024年3月 | - |
 | Certified Kubernetes Application Developer       | [2024年2月（認定番号：LF-foi1x7nz7o）](https://www.credly.com/badges/6cef7431-d072-473b-b1fe-2d8b2a079edb) | 77 |
 | Certified Kubernetes Administrator               | [2024年1月（認定番号：LF-ju2i8qvjl8）](https://www.credly.com/badges/f4be8d48-423f-4396-84da-6edd38921d0d) | 76 |
 | Azure AI Fundamentals                        | [2023年12月（認定番号：6B0B39-AU0AC3）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/57EC35D1900EFC85?sharingId=5BA8994F83BE0C17) | 783 |
@@ -144,12 +150,27 @@ https://youtu.be/-TQj7soKVEg
 | モバイルシステム技術検定2級                       | 2012年6月 |
 | OracleMasterBronze 11g                          | 2013年4月 |
 
-※更新の必要なものは失効していますが、参考として。CCNPに関してはCCNAのみ更新しています。
-
 # 職歴
+## 生成 AI 活用サービス | 2024年4月 -
+**クラウドエンジニア / 構築・運用**
+- Azureを活用したマイクロサービスアーキテクチャの採用
+    - ログ、メトリックス可視化の改善（Grafana導入）
+    - インフラの差分変更検知の自動化調査（Terraform × GitHub Actions）
+    - 新環境構築
+    - アーキテクチャのアップデート考案
+
+## 生成 AI 活用伴走支援 | 2024年3月 - 2024年4月
+**インフラエンジニア / 検証**
+- M365とAzure OpenAI サービスの連携
+    - M365 権限調査
+    - Teams - Azure OpenAI 連携調査
+      - Power Automate
+      - Copilot Stuio
 
 ## IoTデバイス管理 DevOpsエンジニアリング | 2023年5月 - 2024年3月
+
 **インフラエンジニア / 開発環境整備**
+
 - Azureを活用したマイクロサービスアーキテクチャの採用
     - CIツール（Zuul）でのビルドジョブ作成（Pytest、Buildahでのイメージビルド）
     - CDツール（KubeVela）の調査
@@ -161,6 +182,7 @@ https://youtu.be/-TQj7soKVEg
     - GitHu Actions による環境構築の自動化
     - Skafoldの利用方法確認
     - 手順書、議事録作成（Confluence、README.md）
+
 ## 音声認識基盤構築 | 2021年6月 - 2023年4月
 
 **インフラエンジニア / 構築・運用**
