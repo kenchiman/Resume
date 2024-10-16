@@ -22,16 +22,16 @@ https://youtu.be/-TQj7soKVEg
 ![experience-image](img/service.png)
 
 スキル、知識レベルを5点評価で自己採点しています。
-| Microsoft Azure 　　　　   | Level                     | Microsoft Azure 　　　　   | Level                     |
-|:--------------------------|--------------------------:|:--------------------------|--------------------------:|
-| Traffic Manager           | :star::star::star::star:  | Storage Account           | :star::star::star:        |
-| Application Gateway       | :star::star::star::star:  | Azure Backup              | :star::star:              |
-| Web Apps                  | :star::star::star::star:  | Azure Postgres SQL        | :star::star:              |
-| Virtual Network           | :star::star::star:        | Azure Active Directory    | :star::star::star:        |
-| Network Security Group    | :star::star::star:        | Azure Databricks          | :star::star:              |
-| Azure SQL Database        | :star::star:              | Azure DataFactory         | :star::star:              |
-| Azure Monitor             | :star::star::star:        | Azure DevOps              | :star::star:              |
-| Azure Virtural Machine    | :star::star::star:        | Visual Studio App Center  | :star:                    |
+| Microsoft Azure 　　　　   | Level                     | Microsoft Azure 　　　　                       | Level                     |
+|:--------------------------|--------------------------:|:-----------------------------------------------|--------------------------:|
+| Traffic Manager           | :star::star::star::star:  | Storage Account                                | :star::star::star:        |
+| Application Gateway       | :star::star::star::star:  | Azure Backup                                   | :star::star:              |
+| Web Apps                  | :star::star::star::star:  | Azure Postgres SQL                             | :star::star:              |
+| Virtual Network           | :star::star::star:        | Microsoft EntraID(旧 : Azure Active Directory) | :star::star::star:        |
+| Network Security Group    | :star::star::star:        | Azure Databricks                               | :star::star:              |
+| Azure SQL Database        | :star::star:              | Azure DataFactory                              | :star::star:              |
+| Azure Monitor             | :star::star::star:        | Azure DevOps                                   | :star::star:              |
+| Azure Virtural Machine    | :star::star::star:        | Visual Studio App Center                       | :star:                    |
 | Azure Kubernetes Service  | :star::star::star:        |
 
 | amazon web services       | Level                     |
@@ -158,6 +158,8 @@ https://youtu.be/-TQj7soKVEg
     - インフラの差分変更検知の自動化調査（Terraform × GitHub Actions）
     - 新環境構築
     - アーキテクチャのアップデート考案
+    - ガバナンス強化(Azure Policy)
+    - Terraform version up 対応（tfenv利用）
 
 ## 生成 AI 活用伴走支援 | 2024年3月 - 2024年4月
 **インフラエンジニア / 検証**
