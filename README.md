@@ -124,7 +124,7 @@ https://youtu.be/-TQj7soKVEg
 # 保有資格
 |資格|取得年月|スコア|
 |:----|-------|-------:|
-| Microsoft Cybersecurity Architect Expert         | [2024年10月（認定番号：10074C9AD7E5D2C5）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/10074C9AD7E5D2C5?sharingId=5BA8994F83BE0C17) | 710 |
+| GitHub Foundations                               | [2024年12月](https://www.credly.com/badges/8e53125e-f86f-447c-8860-a6a12e8d4403/linked_in_profile) | - |
 | Azure Developer Associate                        | [2024年8月（認定番号：31C0588E6B537EE5）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/31C0588E6B537EE5?sharingId) | 737 |
 | Azure Security Engineer Associate                | [2024年7月（認定番号：DC548F0CB4C4DA71）](https://learn.microsoft.com/api/credentials/share/ja-jp/khigashi/DC548F0CB4C4DA71?sharingId) | 936 |
 | Python3 エンジニア認定基礎試験                     | [2024年6月] | 763 |
@@ -157,10 +157,11 @@ https://youtu.be/-TQj7soKVEg
 - Azureを活用したマイクロサービスアーキテクチャの採用
     - ログ、メトリックス可視化の改善（Grafana導入）
     - インフラの差分変更検知の自動化調査（Terraform × GitHub Actions）
-    - 新環境構築
+    - 新環境構築（顧客提案、構成提案含む）
     - アーキテクチャのアップデート考案
     - ガバナンス強化(Azure Policy)
     - Terraform version up 対応（tfenv利用）
+    - －サービスプリンシパル シークレット 有効期限確認ツール作成
 
 ## 生成 AI 活用伴走支援 | 2024年3月 - 2024年4月
 **インフラエンジニア / 検証**
